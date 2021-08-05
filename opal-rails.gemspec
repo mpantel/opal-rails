@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'rails',               '>= 5.1', '< 6.1'
-  spec.add_dependency 'sprockets-rails',     '~> 2.3.1'
+  spec.add_dependency 'sprockets-rails'#,     '~> 2.3.1'
   spec.add_dependency 'jquery-rails'
 
   spec.add_dependency 'opal',                '~> 1.2'
