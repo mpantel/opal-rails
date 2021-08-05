@@ -33,7 +33,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'sprockets-rails',     '~> 2.3.1'
   spec.add_dependency 'jquery-rails'
 
-  spec.add_dependency 'opal',                '~> 1.0.0'
+  spec.add_dependency 'opal',                '~> 1'
   spec.add_dependency 'opal-jquery',         '~> 0.4.4'
   spec.add_dependency 'opal-sprockets',      '~> 0.5.0'
   spec.add_dependency 'opal-activesupport',  '>= 0.0.5'
